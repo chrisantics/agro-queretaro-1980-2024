@@ -1,0 +1,374 @@
+year,nivel,grupo_natural,sup_sembrada,produccion
+1981,grupo_natural,Cereales,137496,118109
+1981,grupo_natural,Forrajes,26345,999740
+1981,grupo_natural,Frutales,5775,45700
+1981,grupo_natural,Hortalizas,1757,20295
+1981,grupo_natural,Legumbres secas,55305,5390
+1981,grupo_natural,Oleaginosas,18,22
+1981,grupo_natural,Ornamentos,262,5192
+1981,grupo_natural,Tuberculos,49,1052
+1981,total,TODOS,227007,1195500
+1982,grupo_natural,Cereales,115619,75117
+1982,grupo_natural,Forrajes,30417,1101016
+1982,grupo_natural,Frutales,5389,44191
+1982,grupo_natural,Hortalizas,1929,24551
+1982,grupo_natural,Industriales,500,535
+1982,grupo_natural,Legumbres secas,39176,2540
+1982,grupo_natural,Oleaginosas,25,45
+1982,grupo_natural,Ornamentos,212,2934
+1982,grupo_natural,Tuberculos,85,1512
+1982,total,TODOS,193352,1252441
+1983,grupo_natural,Cereales,115829,181471
+1983,grupo_natural,Forrajes,31717,1098689
+1983,grupo_natural,Frutales,6481,39992
+1983,grupo_natural,Hortalizas,1816,24740
+1983,grupo_natural,Legumbres secas,40352,14365
+1983,grupo_natural,Oleaginosas,7,15
+1983,grupo_natural,Ornamentos,25,522
+1983,grupo_natural,Tuberculos,8,96
+1983,total,TODOS,196235,1359890
+1984,grupo_natural,Cereales,117429,156275
+1984,grupo_natural,Forrajes,32900,1179436
+1984,grupo_natural,Frutales,6595,40784
+1984,grupo_natural,Hortalizas,2066,25735
+1984,grupo_natural,Legumbres secas,35932,11278
+1984,grupo_natural,Oleaginosas,115,37
+1984,grupo_natural,Tuberculos,6,50
+1984,total,TODOS,195043,1413595
+1985,grupo_natural,Cereales,116798,185205
+1985,grupo_natural,Forrajes,34553,1181010
+1985,grupo_natural,Frutales,7130,32724
+1985,grupo_natural,Hortalizas,1987,26517
+1985,grupo_natural,Legumbres secas,38702,8540
+1985,grupo_natural,Oleaginosas,29,23
+1985,grupo_natural,Ornamentos,10,15
+1985,grupo_natural,Tuberculos,9,68
+1985,total,TODOS,199218,1434102
+1986,grupo_natural,Cereales,112251,127580
+1986,grupo_natural,Forrajes,27160,817305
+1986,grupo_natural,Frutales,6294,23527
+1986,grupo_natural,Hortalizas,1062,12398
+1986,grupo_natural,Legumbres secas,34959,6351
+1986,grupo_natural,Ornamentos,10,54
+1986,total,TODOS,181736,987215
+1987,grupo_natural,Cereales,106620,116096
+1987,grupo_natural,Forrajes,25838,592265
+1987,grupo_natural,Frutales,5740,17584
+1987,grupo_natural,Hortalizas,773,6512
+1987,grupo_natural,Legumbres secas,39543,2339
+1987,grupo_natural,Ornamentos,10,70
+1987,total,TODOS,178524,734866
+1988,grupo_natural,Cereales,102829,83332
+1988,grupo_natural,Forrajes,23771,711363
+1988,grupo_natural,Frutales,5025,16671
+1988,grupo_natural,Hortalizas,1010,10624
+1988,grupo_natural,Legumbres secas,38573,3352
+1988,grupo_natural,Oleaginosas,8,24
+1988,grupo_natural,Ornamentos,18,213
+1988,grupo_natural,Tuberculos,16,352
+1988,total,TODOS,171250,825931
+1989,grupo_natural,Cereales,113320,110492
+1989,grupo_natural,Forrajes,25050,695420
+1989,grupo_natural,Frutales,4312,17373
+1989,grupo_natural,Hortalizas,411,3438
+1989,grupo_natural,Legumbres secas,31870,7487
+1989,grupo_natural,Ornamentos,15,209
+1989,grupo_natural,Tuberculos,5,50
+1989,total,TODOS,174983,834469
+1990,grupo_natural,Cereales,103249,137311
+1990,grupo_natural,Forrajes,26855,774779
+1990,grupo_natural,Frutales,4360,17228
+1990,grupo_natural,Hortalizas,869,10644
+1990,grupo_natural,Legumbres secas,28538,13589
+1990,grupo_natural,Tuberculos,4,12
+1990,total,TODOS,163875,953563
+1991,grupo_natural,Cereales,105168,99773
+1991,grupo_natural,Forrajes,26304,950736
+1991,grupo_natural,Frutales,3564,19016
+1991,grupo_natural,Hortalizas,1854,26609
+1991,grupo_natural,Legumbres secas,23595,2931
+1991,grupo_natural,Ornamentos,2,26
+1991,grupo_natural,Tuberculos,5,24
+1991,total,TODOS,160492,1099115
+1992,grupo_natural,Cereales,105028,176722
+1992,grupo_natural,Forrajes,21446,681834
+1992,grupo_natural,Frutales,7407,46355
+1992,grupo_natural,Hortalizas,2388,32109
+1992,grupo_natural,Legumbres secas,27354,7374
+1992,total,TODOS,163623,944394
+1993,grupo_natural,Cereales,92093,134977
+1993,grupo_natural,Forrajes,9647,395797
+1993,grupo_natural,Frutales,3431,15564
+1993,grupo_natural,Hortalizas,1659,13101
+1993,grupo_natural,Legumbres secas,25285,3424
+1993,grupo_natural,Tuberculos,20,0
+1993,total,TODOS,132135,562863
+1994,grupo_natural,Cereales,118238,198236
+1994,grupo_natural,Forrajes,9257,361661
+1994,grupo_natural,Frutales,2132,12440
+1994,grupo_natural,Hortalizas,1598,16325
+1994,grupo_natural,Legumbres secas,29313,8277
+1994,total,TODOS,160538,596939
+1995,grupo_natural,Cereales,120298,217037
+1995,grupo_natural,Forrajes,11822,476216
+1995,grupo_natural,Frutales,1963,9351
+1995,grupo_natural,Hortalizas,1312,17158
+1995,grupo_natural,Legumbres secas,23164,6247
+1995,grupo_natural,Ornamentos,18,270
+1995,grupo_natural,Tuberculos,2,50
+1995,total,TODOS,158579,726329
+1996,grupo_natural,Cereales,129062,213480
+1996,grupo_natural,Forrajes,12474,467220
+1996,grupo_natural,Frutales,2432,16190
+1996,grupo_natural,Hortalizas,1293,15870
+1996,grupo_natural,Legumbres secas,25520,5113
+1996,total,TODOS,170781,717873
+1997,grupo_natural,Cereales,125183,194274
+1997,grupo_natural,Forrajes,15786,474988
+1997,grupo_natural,Frutales,2389,12326
+1997,grupo_natural,Hortalizas,1637,24472
+1997,grupo_natural,Legumbres secas,24689,6221
+1997,grupo_natural,Ornamentos,555,9278
+1997,total,TODOS,170239,721559
+1998,grupo_natural,Cereales,118698,262365
+1998,grupo_natural,Forrajes,19914,517966
+1998,grupo_natural,Frutales,2694,7891
+1998,grupo_natural,Hortalizas,3240,33668
+1998,grupo_natural,Legumbres secas,24629,14734
+1998,grupo_natural,Ornamentos,728,11288
+1998,total,TODOS,169903,847912
+1999,grupo_natural,Cereales,127995,161286
+1999,grupo_natural,Forrajes,20329,549827
+1999,grupo_natural,Frutales,2327,4403
+1999,grupo_natural,Hortalizas,3357,34572
+1999,grupo_natural,Industriales,828,3104
+1999,grupo_natural,Legumbres secas,26946,6700
+1999,grupo_natural,Ornamentos,733,12052
+1999,total,TODOS,182515,771944
+2000,grupo_natural,Cereales,120135,202088
+2000,grupo_natural,Forrajes,19557,624907
+2000,grupo_natural,Frutales,2148,7345
+2000,grupo_natural,Hortalizas,3370,41833
+2000,grupo_natural,Industriales,848,4652
+2000,grupo_natural,Legumbres secas,23634,6539
+2000,grupo_natural,Ornamentos,704,4596
+2000,total,TODOS,170396,891960
+2001,grupo_natural,Cereales,123156,299261
+2001,grupo_natural,Forrajes,18825,679130
+2001,grupo_natural,Frutales,1943,5971
+2001,grupo_natural,Hortalizas,3739,50639
+2001,grupo_natural,Industriales,788,3189
+2001,grupo_natural,Legumbres secas,24326,10505
+2001,grupo_natural,Ornamentos,220,2254
+2001,grupo_natural,Tuberculos,1,0
+2001,total,TODOS,172998,1050949
+2002,grupo_natural,Cereales,118390,331201
+2002,grupo_natural,Forrajes,19335,782542
+2002,grupo_natural,Frutales,1983,5772
+2002,grupo_natural,Hortalizas,4949,76235
+2002,grupo_natural,Industriales,1146,17830
+2002,grupo_natural,Legumbres secas,24194,12674
+2002,total,TODOS,169997,1226254
+2003,grupo_natural,Cereales,113331,303365
+2003,grupo_natural,Forrajes,21038,809658
+2003,grupo_natural,Frutales,2372,10599
+2003,grupo_natural,Hortalizas,4238,75107
+2003,grupo_natural,Industriales,501,250
+2003,grupo_natural,Legumbres secas,26331,18690
+2003,total,TODOS,167811,1217669
+2004,grupo_natural,Cereales,118079,318441
+2004,grupo_natural,Forrajes,20755,775510
+2004,grupo_natural,Frutales,2446,10799
+2004,grupo_natural,Hortalizas,4102,84300
+2004,grupo_natural,Industriales,618,6936
+2004,grupo_natural,Legumbres secas,19961,8337
+2004,total,TODOS,165961,1204323
+2005,grupo_natural,Cereales,109328,212837
+2005,grupo_natural,Forrajes,26435,874032
+2005,grupo_natural,Frutales,2130,8772
+2005,grupo_natural,Hortalizas,3060,54385
+2005,grupo_natural,Industriales,368,606
+2005,grupo_natural,Legumbres secas,18088,4374
+2005,grupo_natural,Oleaginosas,6,11
+2005,grupo_natural,Tuberculos,3,21
+2005,total,TODOS,159418,1155038
+2006,grupo_natural,Cereales,108446,196741
+2006,grupo_natural,Forrajes,24183,961148
+2006,grupo_natural,Frutales,2112,7898
+2006,grupo_natural,Hortalizas,3457,74879
+2006,grupo_natural,Industriales,368,1756
+2006,grupo_natural,Legumbres secas,17072,5860
+2006,grupo_natural,Oleaginosas,273,478
+2006,grupo_natural,Tuberculos,3,18
+2006,total,TODOS,155914,1248778
+2007,grupo_natural,Cereales,119350,384300
+2007,grupo_natural,Forrajes,29995,1430839
+2007,grupo_natural,Frutales,2142,7643
+2007,grupo_natural,Hortalizas,3524,79276
+2007,grupo_natural,Industriales,334,2690
+2007,grupo_natural,Legumbres secas,17037,6896
+2007,grupo_natural,Oleaginosas,5,9
+2007,grupo_natural,Tuberculos,3,20
+2007,total,TODOS,172390,1911673
+2008,grupo_natural,Cereales,115443,321292
+2008,grupo_natural,Forrajes,30251,1492588
+2008,grupo_natural,Frutales,2366,8170
+2008,grupo_natural,Hortalizas,3848,88891
+2008,grupo_natural,Industriales,343,2796
+2008,grupo_natural,Legumbres secas,17884,15246
+2008,grupo_natural,Oleaginosas,4,6
+2008,grupo_natural,Tuberculos,49,1600
+2008,total,TODOS,170188,1930589
+2009,grupo_natural,Cereales,115783,226838
+2009,grupo_natural,Forrajes,29764,1457088
+2009,grupo_natural,Frutales,2362,7360
+2009,grupo_natural,Hortalizas,3378,77354
+2009,grupo_natural,Industriales,337,1774
+2009,grupo_natural,Legumbres secas,17010,5080
+2009,grupo_natural,Tuberculos,4,26
+2009,total,TODOS,168638,1775520
+2010,grupo_natural,Cereales,123725,308033
+2010,grupo_natural,Forrajes,30898,1517631
+2010,grupo_natural,Frutales,2396,9103
+2010,grupo_natural,Hortalizas,4565,108314
+2010,grupo_natural,Industriales,407,5939
+2010,grupo_natural,Legumbres secas,16788,7144
+2010,grupo_natural,Oleaginosas,4,7
+2010,grupo_natural,Tuberculos,3,16
+2010,total,TODOS,178786,1956187
+2011,grupo_natural,Cereales,117646,196610
+2011,grupo_natural,Forrajes,28732,1512982
+2011,grupo_natural,Frutales,2391,8708
+2011,grupo_natural,Hortalizas,5133,119213
+2011,grupo_natural,Industriales,463,2180
+2011,grupo_natural,Legumbres secas,14587,3247
+2011,grupo_natural,Oleaginosas,4,7
+2011,grupo_natural,Tuberculos,4,22
+2011,total,TODOS,168960,1842969
+2012,grupo_natural,Cereales,119719,306417
+2012,grupo_natural,Forrajes,28164,1553170
+2012,grupo_natural,Frutales,2261,8318
+2012,grupo_natural,Hortalizas,5484,135597
+2012,grupo_natural,Industriales,1105,1706
+2012,grupo_natural,Legumbres secas,12922,6370
+2012,grupo_natural,Oleaginosas,25,22
+2012,grupo_natural,Ornamentos,105,1433
+2012,grupo_natural,Tuberculos,3,15
+2012,total,TODOS,169788,2013048
+2013,grupo_natural,Cereales,115606,314231
+2013,grupo_natural,Forrajes,29952,1676443
+2013,grupo_natural,Frutales,2182,8419
+2013,grupo_natural,Hortalizas,5570,158174
+2013,grupo_natural,Industriales,390,875
+2013,grupo_natural,Legumbres secas,12325,7788
+2013,grupo_natural,Oleaginosas,3,4
+2013,grupo_natural,Tuberculos,3,16
+2013,total,TODOS,166031,2165950
+2014,grupo_natural,Cereales,112480,294671
+2014,grupo_natural,Forrajes,29413,1645090
+2014,grupo_natural,Frutales,2048,8545
+2014,grupo_natural,Hortalizas,5746,163715
+2014,grupo_natural,Industriales,297,135
+2014,grupo_natural,Legumbres secas,12332,8695
+2014,grupo_natural,Oleaginosas,3,5
+2014,grupo_natural,Tuberculos,5,29
+2014,total,TODOS,162324,2120885
+2015,grupo_natural,Cereales,113588,327780
+2015,grupo_natural,Forrajes,28737,1667449
+2015,grupo_natural,Frutales,1871,7282
+2015,grupo_natural,Hortalizas,6707,240125
+2015,grupo_natural,Industriales,277,176
+2015,grupo_natural,Legumbres secas,11658,6872
+2015,grupo_natural,Oleaginosas,5,9
+2015,grupo_natural,Tuberculos,24,778
+2015,total,TODOS,162867,2250471
+2016,grupo_natural,Cereales,115976,347287
+2016,grupo_natural,Forrajes,26721,1592869
+2016,grupo_natural,Frutales,1594,5831
+2016,grupo_natural,Hortalizas,6537,209178
+2016,grupo_natural,Industriales,577,2890
+2016,grupo_natural,Legumbres secas,8887,6296
+2016,grupo_natural,Oleaginosas,4,6
+2016,grupo_natural,Tuberculos,3,14
+2016,total,TODOS,160299,2164371
+2017,grupo_natural,Cereales,110515,321379
+2017,grupo_natural,Especias y medicinales,614,166
+2017,grupo_natural,Forrajes,26281,1564616
+2017,grupo_natural,Frutales,1453,4887
+2017,grupo_natural,Hortalizas,6009,232757
+2017,grupo_natural,Industriales,565,2512
+2017,grupo_natural,Legumbres secas,8447,4915
+2017,grupo_natural,Oleaginosas,3,5
+2017,grupo_natural,Otros,8,3360
+2017,total,TODOS,153895,2134597
+2018,grupo_natural,Cereales,105394,285651
+2018,grupo_natural,Especias y medicinales,237,77
+2018,grupo_natural,Forrajes,27016,1534442
+2018,grupo_natural,Frutales,1463,5364
+2018,grupo_natural,Hortalizas,6348,259639
+2018,grupo_natural,Industriales,652,2116
+2018,grupo_natural,Legumbres secas,7902,4689
+2018,grupo_natural,Oleaginosas,4,7
+2018,grupo_natural,Otros,8,3470
+2018,grupo_natural,Tuberculos,2,10
+2018,total,TODOS,149026,2095465
+2019,grupo_natural,Cereales,95524,246929
+2019,grupo_natural,Forrajes,26394,1529872
+2019,grupo_natural,Frutales,1404,4465
+2019,grupo_natural,Hortalizas,5475,249121
+2019,grupo_natural,Industriales,394,1570
+2019,grupo_natural,Legumbres secas,7402,4255
+2019,grupo_natural,Oleaginosas,5,8
+2019,grupo_natural,Otros,8,3300
+2019,grupo_natural,Tuberculos,4,7
+2019,total,TODOS,136610,2039527
+2020,grupo_natural,Cereales,97539,237516
+2020,grupo_natural,Forrajes,26852,1485344
+2020,grupo_natural,Frutales,1406,4732
+2020,grupo_natural,Hortalizas,6998,284521
+2020,grupo_natural,Industriales,666,2906
+2020,grupo_natural,Legumbres secas,6261,2994
+2020,grupo_natural,Oleaginosas,4,7
+2020,grupo_natural,Otros,9,3740
+2020,grupo_natural,Tuberculos,3,11
+2020,total,TODOS,139738,2021771
+2021,grupo_natural,Cereales,101344,245663
+2021,grupo_natural,Forrajes,26664,1476188
+2021,grupo_natural,Frutales,1397,4858
+2021,grupo_natural,Hortalizas,6051,219978
+2021,grupo_natural,Industriales,660,2911
+2021,grupo_natural,Legumbres secas,6898,4668
+2021,grupo_natural,Oleaginosas,4,7
+2021,grupo_natural,Otros,9,3740
+2021,grupo_natural,Tuberculos,3,11
+2021,total,TODOS,143030,1958024
+2022,grupo_natural,Cereales,69627,238319
+2022,grupo_natural,Forrajes,23864,1417940
+2022,grupo_natural,Frutales,1372,4856
+2022,grupo_natural,Hortalizas,5697,217442
+2022,grupo_natural,Industriales,728,3948
+2022,grupo_natural,Legumbres secas,6632,2387
+2022,grupo_natural,Oleaginosas,2,3
+2022,grupo_natural,Otros,8,3350
+2022,grupo_natural,Tuberculos,4,19
+2022,total,TODOS,107934,1888264
+2023,grupo_natural,Cereales,80214,265477
+2023,grupo_natural,Forrajes,24016,1421185
+2023,grupo_natural,Frutales,1386,5056
+2023,grupo_natural,Hortalizas,5622,243191
+2023,grupo_natural,Industriales,718,3935
+2023,grupo_natural,Legumbres secas,3415,1520
+2023,grupo_natural,Oleaginosas,2,3
+2023,grupo_natural,Otros,8,3182
+2023,grupo_natural,Tuberculos,4,19
+2023,total,TODOS,115385,1943568
+2024,grupo_natural,Cereales,75506,278303
+2024,grupo_natural,Forrajes,26695,1615563
+2024,grupo_natural,Frutales,1336,4976
+2024,grupo_natural,Hortalizas,5427,213307
+2024,grupo_natural,Industriales,729,4504
+2024,grupo_natural,Legumbres secas,3589,2276
+2024,grupo_natural,Oleaginosas,2,3
+2024,grupo_natural,Otros,8,3451
+2024,grupo_natural,Tuberculos,4,19
+2024,total,TODOS,113296,2122402
